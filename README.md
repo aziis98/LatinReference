@@ -4,5 +4,5 @@ All the files are written in Markdown. If you want to add something or notice so
 
 ## Translations
 
-+ [Italiano]()
++ [Italiano](https://github.com/aziis98/LatinReference/blob/master/italiano/home.md)
 + [English]()
